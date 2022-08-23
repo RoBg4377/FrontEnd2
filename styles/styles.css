@@ -1,0 +1,17 @@
+.baner {
+  background-image: url(/images/interlaced.png);  
+  text-align: center;
+  padding-top: 10vh;
+  padding-bottom: 5vh;
+}
+.imagen {
+  width: 20vw;
+  border-radius: 50%;
+}
+.navbar {
+  background-color: #8fe3cf;;
+}
+.btn-primary{
+  background-color: #8fa8cf;
+  border: #8fa8cf;
+}
