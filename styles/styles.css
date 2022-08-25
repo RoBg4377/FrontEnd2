@@ -4,6 +4,9 @@
   padding-top: 10vh;
   padding-bottom: 5vh;
 }
+.logo {
+  width: 30%;
+}
 .imagen {
   width: 20vw;
   border-radius: 50%;
