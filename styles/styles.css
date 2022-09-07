@@ -18,6 +18,19 @@
   background-color: #8fa8cf;
   border: #8fa8cf;
 }
+.seccion{
+  border: solid 0.5px #8fe3cf;
+  color:#8fa8cf;
+  margin-left: auto ;
+  margin-right: auto;
+}
+.seccion:hover{
+  color:#fff;
+  background-color: #8fe3cf;
+}
+button {
+  z-index: 9;
+}
 .skills-section {
   margin-top: 100px;
 }
@@ -133,4 +146,8 @@
 }
 .skills6::after {
   content: "70%";
+}
+a {
+  text-decoration: none;
+  color: #fff;
 }
